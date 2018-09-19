@@ -1,0 +1,10 @@
+D:\VisualStudio\MiCalculadoraSV\MiCalculadoraSV\bin\Debug\MiCalculadoraSV.exe.config
+D:\VisualStudio\MiCalculadoraSV\MiCalculadoraSV\bin\Debug\MiCalculadoraSV.exe
+D:\VisualStudio\MiCalculadoraSV\MiCalculadoraSV\bin\Debug\MiCalculadoraSV.pdb
+D:\VisualStudio\MiCalculadoraSV\MiCalculadoraSV\obj\Debug\MiCalculadoraSV.csprojAssemblyReference.cache
+D:\VisualStudio\MiCalculadoraSV\MiCalculadoraSV\obj\Debug\MiCalculadoraSV.Properties.Resources.resources
+D:\VisualStudio\MiCalculadoraSV\MiCalculadoraSV\obj\Debug\MiCalculadoraSV.csproj.GenerateResource.cache
+D:\VisualStudio\MiCalculadoraSV\MiCalculadoraSV\obj\Debug\MiCalculadoraSV.csproj.CoreCompileInputs.cache
+D:\VisualStudio\MiCalculadoraSV\MiCalculadoraSV\obj\Debug\MiCalculadoraSV.exe
+D:\VisualStudio\MiCalculadoraSV\MiCalculadoraSV\obj\Debug\MiCalculadoraSV.pdb
+D:\VisualStudio\MiCalculadoraSV\MiCalculadoraSV\obj\Debug\MiCalculadoraSV.MiCalculadora.resources
